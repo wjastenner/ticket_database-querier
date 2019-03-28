@@ -1,0 +1,6 @@
+E. Ticket issue unsuccessful
+B. Event insert unsuccessful
+B. Event insert unsuccessful
+E. Ticket issue unsuccessful
+E. Ticket issue unsuccessful
+X. End of requests

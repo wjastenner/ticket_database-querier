@@ -1,0 +1,160 @@
+Z
+B
+A100
+100 metres sprint
+Stadium 1
+2019-04-01
+16:00
+1000
+B
+AMTH
+Marathon
+Stadium 1
+2019-04-01
+18:00
+1000
+B
+A400
+400 metres sprint
+Stadium 1
+2019-04-01
+10:00
+1000
+B
+ALJP
+Long Jump
+Stadium 1
+2019-04-02
+10:00
+1000
+B
+YCHT
+Yacht Racing
+Marina
+2019-04-02
+09:00
+200
+B
+WSRF
+Wind Surfing
+Marina
+2019-04-02
+12:00
+200
+B
+JUDO
+Judo
+Arena 2
+2019-04-03
+10:00
+3
+B
+SWIM
+Swimming
+Pool
+2019-04-03
+10:00
+100
+A
+100
+B. Iglesia
+bli@uea.ac.uk
+A
+200
+W. Wang
+wjw@somewhere.net
+A
+300
+P. Mayhew
+pwm@gmail.com
+A
+400
+R. Lapeer
+rl@uea.ac.uk
+A
+500
+P. Chardaire
+pc@uea.ac.uk
+E
+A100
+100
+E
+A100
+200
+E
+A100
+300
+E
+A100
+500
+E
+ALJP
+100
+E
+ALJP
+200
+E
+AMTH
+200
+E
+AMTH
+300
+E
+AMTH
+500
+E
+A400
+200
+E
+A400
+300
+E
+YCHT
+200
+E
+YCHT
+300
+E
+YCHT
+500
+E
+WSRF
+200
+E
+WSRF
+300
+E
+JUDO
+100
+E
+JUDO
+300
+E
+JUDO
+200
+E
+A100
+400
+P
+Q
+R
+A100
+S
+200
+T
+20
+V
+A100
+D
+A100
+T
+20
+V
+A100
+C
+300
+C
+400
+T
+20
+X
